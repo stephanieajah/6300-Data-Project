@@ -1,0 +1,53 @@
+# API Keys and Environment Variables
+api.env
+*.env
+technical_indicators/api.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (optional - uncomment if you don't want to track large CSV files)
+# *.csv
+# *.xlsx
+
+# Compiled files
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Word documents (optional - uncomment if you don't want to track)
+# *.docx
+
+# ZIP files (optional - uncomment if you don't want to track)
+# *.zip
+
